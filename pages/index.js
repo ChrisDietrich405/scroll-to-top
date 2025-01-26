@@ -17,9 +17,9 @@ export default function Home() {
 				<h1 className={styles.title}>Proof of Concept</h1>
 
 				<p className={styles.description}>
-					If you scroll down on the page an arrow will appear in the left hand
-					corner to redirect you to the top. I thought this would be a nice
-					addition to the vegvisits website.
+					If you scroll down on the page an arrow will appear in the bottom
+					right hand corner to redirect you to the top. I thought this would be
+					a nice addition to the vegvisits website.
 				</p>
 			</main>
 
